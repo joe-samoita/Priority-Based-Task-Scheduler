@@ -1,0 +1,16 @@
+C:\Users\joe\source\repos\Task Scheduler\bin\Debug\net8.0-windows\Task Scheduler.exe
+C:\Users\joe\source\repos\Task Scheduler\bin\Debug\net8.0-windows\Task Scheduler.deps.json
+C:\Users\joe\source\repos\Task Scheduler\bin\Debug\net8.0-windows\Task Scheduler.runtimeconfig.json
+C:\Users\joe\source\repos\Task Scheduler\bin\Debug\net8.0-windows\Task Scheduler.dll
+C:\Users\joe\source\repos\Task Scheduler\bin\Debug\net8.0-windows\Task Scheduler.pdb
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task_Scheduler.Form1.resources
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.vbproj.GenerateResource.cache
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.AssemblyInfoInputs.cache
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.AssemblyInfo.vb
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.vbproj.CoreCompileInputs.cache
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.dll
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\refint\Task Scheduler.dll
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.pdb
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\Task Scheduler.genruntimeconfig.cache
+C:\Users\joe\source\repos\Task Scheduler\obj\Debug\net8.0-windows\ref\Task Scheduler.dll
